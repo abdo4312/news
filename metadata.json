@@ -1,0 +1,6 @@
+{
+  "name": "Atmosphere",
+  "description": "A high-end editorial news and weather application featuring the Nocturne Editorial visual style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
